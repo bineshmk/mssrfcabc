@@ -1,0 +1,7 @@
++++
+draft = true
+
++++
+Community Agrobiodiversity Centre (CAbC) was established in 1997 at Wayanad district of Kerala, as one of the regional centres of [M.S. Swaminathan Research Foundation (MSSRF)](http://mssrf.org/), Chennai, India. The Centre was established to promote community conservation systems of rural and tribal people through research, extension and advocacy. Centre works in partnership with rural and farming communties for sustainable agricultural and rural development. The activities are designed in such a way that promote a pro-nature, pro-poor, pro-woman and a pro-livelihood orientation to technology development and dissemination. Operational area of the Centre is confined to the Western Ghats regions in Kerala. Over a period of more than two decades, MSSRF has evolved a C4 framework for the conservation, enhancement and sustainable and equitable use of biodiversity.[ MSSRF’s 4C framework](http://mssrfcabc.res.in/about-the-centre/approach-and-framework/index.html) integrates both eco-centric and anthropocentric approaches in conservation by giving simultaneous emphasis on conservation, cultivation, consumption and commerce.
+
+Apart from giving thrust to conservation of agrobiodiversity for food and livelihood security, the Centre is also engaged in conservation of rare, endemic and threatened plant species of Western Ghats. For the functional clarity, the Centre’s activities related to biodiversity have divided into three thematic areas,
